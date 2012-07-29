@@ -1,0 +1,6 @@
+#name : times do |i| ... end
+#group : control structure
+# --
+times do |${1:i}|
+  $0
+end

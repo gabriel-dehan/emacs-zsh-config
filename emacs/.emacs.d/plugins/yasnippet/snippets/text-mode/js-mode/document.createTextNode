@@ -1,0 +1,3 @@
+#name : document.createTextNode (...)
+# --
+document.createTextNode($0)

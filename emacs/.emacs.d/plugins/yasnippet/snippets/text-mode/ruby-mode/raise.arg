@@ -1,0 +1,4 @@
+#name : raise Exception
+#group : exceptions
+# --
+raise ArgumentError, $0

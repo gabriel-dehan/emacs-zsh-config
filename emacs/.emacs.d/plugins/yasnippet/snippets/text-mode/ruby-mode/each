@@ -1,0 +1,6 @@
+#name : each do || ... end
+#group : control structure
+# --
+each do |${1:element}|
+  $0
+end

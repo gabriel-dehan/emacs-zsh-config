@@ -1,0 +1,6 @@
+#name : function ()
+# --
+function ${1:name}(${2:param})
+{
+	$0
+}

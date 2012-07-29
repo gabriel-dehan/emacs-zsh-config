@@ -1,0 +1,9 @@
+#name : if (...) { ... } else if (...) { ... }
+# --
+if (${1:condition}) {
+  $3
+} else if (${2:condtion}) {
+  $4
+} else {
+  $0
+}
